@@ -46,3 +46,13 @@ pip install coloram
 ```
 
 ### 3. Correr el archivo main.py
+
+## Repositorios
+
+## GitHub
+
+### https://github.com/JuanGabrielChaves/Proyecto-Python
+
+## Google Drive
+
+### https://drive.google.com/drive/u/0/folders/1U5GR16UbdxGjQrzT76wdHlx7_2yvPNYe
